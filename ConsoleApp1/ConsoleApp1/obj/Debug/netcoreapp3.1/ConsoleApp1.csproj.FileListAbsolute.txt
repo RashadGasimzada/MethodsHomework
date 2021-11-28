@@ -1,0 +1,28 @@
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Rashad\Desktop\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Rashad\Desktop\My files\Code Academy\P126\C#\Methods_Homework\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
